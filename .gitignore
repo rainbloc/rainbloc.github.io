@@ -2,7 +2,7 @@
 node_modules
 npm-debug.log
 
-# Jekyll
+# RainBLoC
 _site
 .jekyll-metadata
 .sass-cache

@@ -1,34 +1,68 @@
-# Jekyll Serif Theme
+<p align="center">
+  <img src="https://i.imgur.com/EbGpvGO.png">
+</p>
 
-Serif is a beautiful small business theme for Jekyll. It contains content types for the archetypical small business website. The theme is fully responsive, blazing fast and artfully illustrated.
+| | |
+|-|-|
+| Version | 0.0.1-beta
 
-[Live Demo](https://jekyll-serif-theme.netlify.com/) | 
-[Installation](#installation) | 
-[Zerostatic Themes](https://www.zerostatic.io/theme/hugo-hero/)
 
-![Hugo Serif Theme screenshot](https://github.com/JugglerX/jekyll-serif-theme/blob/master/screenshots/screenshot-with-border.png)
+# RainBLoC 
 
-## Theme features
+Welcome to **RainBLoC** Project. Rain bloc is the Flutter BLoC Architecture Starter Kit to make you starting development Mobile Application faster using Flutter.
 
-- Services (Collection)
-- Team (Collection)
-- Testimonials (Collection)
-- Features (Data)
-- SCSS
-- Responsive design
-- Bootstrap 4 grid and media queries only
-- Responsive menu
-- 100/100 Google Lighthouse speed score
-- Under 30KB without images or 80KB with images and illustrations ⚡
-- Robust example content included
-- Royalty free illustrations included
+## \# Suggested IDE : Visual Studio Code
+Before you starting with our RainBLoC, We suggesting You to use Visual Code Studio (VCS) as your IDE. Below are usefull Plugins/extensions for your VCS Flutter development:
 
-# Installation
+- [Awesome Flutter Snippet](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets)
+- [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)
+- [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
+- [Flutter files](https://marketplace.visualstudio.com/items?itemName=gornivv.vscode-flutter-files)
+- [Flutter Widget Snippets](https://marketplace.visualstudio.com/items?itemName=alexisvt.flutter-snippets)
+- [Flutter Auto Import](https://marketplace.visualstudio.com/items?itemName=davidwoo.flutter-auto-import)
+- [Flutter stylizer](https://marketplace.visualstudio.com/items?itemName=gmlewis-vscode.flutter-stylizer)
+- [Tab Nine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
 
-To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
+## \# How to get started with RainBloc
 
-I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
+We will not explain further about how you start/install your flutter. If you need this kind of installation information you can check it in here [Flutter Installation](https://flutter.dev/docs/get-started/install)
 
-# License
+If you finish your flutter installation you can go trough for the next step.
 
-If you fork or copy this theme the LICENSE file and the copyright notice on line 3 (where I am listed as the author) must not be changed. You cannot just replace the copyright line with your own name. Attribution in your README.md or on your site is also welcome but not required.
+Open your **Terminal** (_Mac/Linux_) / **Cmd or Gitbash** (_Windows_). And then : 
+
+
+#### \#1 Clone github
+You can do it by using easy clone from this project
+
+```git clone https://github.com/rainbloc/rain-bloc-core```
+
+
+
+#### \#2 Clean it and get pub package
+After cloning the Project you should run :
+- ``` flutter clean ```
+- ``` flutter packages get ``` or ``` flutter pub get```
+
+#### \#3 run your Flutter Package
+then you can run it by using
+- ```flutter run```
+
+or if you want to using VCS see the screenshoot below:
+<p>
+    <img  width="350" src="https://i.imgur.com/yUWTfG2.png"/>
+</p>
+
+---
+Now lets learn more about RainBLoC
+- RainBLoC Architecture
+- Call REST API
+- Using Local Storage
+- Use Available Widget
+
+for further information please see
+our Wiki, [Rainbloc Wiki](https://github.com/rainbloc/rain-bloc-core/wiki)
+
+## Help & Support
+You can reach me @ my Linkedin account:
+[LinkedIn](https://www.linkedin.com/in/rendyas/)
